@@ -1,5 +1,4 @@
 package edu.upeu.pe.sysventasjpc.modelo
-
 data class UsuarioDto(
     var user: String,
     var clave: String,
